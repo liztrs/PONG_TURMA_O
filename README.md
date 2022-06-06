@@ -1,2 +1,2 @@
 # PONG_TURMA_O
-pong pong pong
+jogo ping pong
